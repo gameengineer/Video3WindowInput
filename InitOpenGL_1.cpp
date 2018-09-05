@@ -3,6 +3,7 @@
 // Copyright (c) 2015-2016 Game Institute. All Rights Reserved.
 //
 // Creates a basic resizeable window and OpenGL 3.3 context using GLFW.
+//
 //-----------------------------------------------------------------------------
 #include <iostream>
 
